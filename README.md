@@ -1,0 +1,2 @@
+# GROMACS_tutorials_online
+GROMACS公式サイトのtutorialsをオンライン環境で実行するためのrepository
